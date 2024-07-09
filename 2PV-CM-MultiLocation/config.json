@@ -1,0 +1,34 @@
+{
+    "RootDir": "./out/1to1Mucheck/mu25.0",
+    "Threads": 20,
+
+    "Delta_t" : 0.0001,
+    "Max_t" : 25.0,
+    "Tau_t" : 1.0,
+
+    "VortexCount" : 2,
+    "Circulations": [
+        250.0,
+        250.0
+    ],
+    "InitCenters":[
+        -1.0,
+        1.0,
+        0.0,
+        0.0
+    ],
+    "Mu": 25.0,
+    "NudgeList":[
+        0
+    ],
+    "Range_x":[
+         0.0,
+         2.0
+    ],
+    "Range_y":[
+        -2.0,
+         2.0
+    ],
+    "Div_x": 40,
+    "Div_y": 80
+}

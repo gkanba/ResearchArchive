@@ -1,0 +1,31 @@
+{
+    "RootDir": "./out/Test/A1",
+    "IsDebug": false,
+
+    "Delta_t" : 0.001,
+    "Max_t" : 25.0,
+    "Tau_t" :  1.0,
+
+    "VortexCount" : 2,
+    "Circulations": [
+        250.0,
+        150.0
+    ],
+    "InitCenters_T":[
+        -1.0,
+         1.0,
+         0.0,
+         0.0
+    ],
+    "InitCenters_A":[
+        -1.0,
+         0.6,
+         0.0,
+         0.8
+    ],
+    "Mu":  1.0,
+    "Eta": 0.31,
+    "NudgeList":[
+        0
+    ]
+}

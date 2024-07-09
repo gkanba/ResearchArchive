@@ -1,0 +1,46 @@
+{
+    "RootDir": "./out/Test/EMCM-All-HotRegion-DrasMu200-SSS",
+    "Threads": 20,
+    "IsDebug": false,
+
+    "Delta_t" : 0.001,
+    "Max_t" : 25.0,
+    "Tau_t" :  1.0,
+
+    "VortexCount" : 2,
+    "Circulations": [
+        250.0,
+        200.0
+    ],
+    "InitCenters":[
+        -1.0,
+         1.0,
+         0.0,
+         0.0
+    ],
+    "Mu":  1.0,
+    "Eta": 0.31,
+    "NudgeList":[
+        0
+    ],
+    "Range_x":[
+         0.0,
+         2.0
+    ],
+    "Range_y":[
+        -2.0,
+         2.0
+    ],
+    "Div_x": 40,
+    "Div_y": 80,
+    "Range_Mu":[
+         15.0,
+         25.0
+    ],
+    "Range_GS":[
+        150.0,
+        200.0
+    ],
+    "Div_Mu": 10,
+    "Div_GS": 1
+}

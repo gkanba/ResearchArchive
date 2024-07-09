@@ -1,0 +1,1 @@
+{"Circulations":[250.0,100.0],"Delta_t":0.001,"Div_x":600,"Div_y":600,"InitCenters":[-1.0,1.0,0.0,0.0],"Max_t":25.0,"Mu":5.0,"NudgeList":[0],"Range_x":[-5.0,5.0],"Range_y":[-5.0,5.0],"RootDir":"./out/HD/600x600-Gl250-Gs100-Mu5-Mt25","Tau_t":1.0,"Threads":20,"VortexCount":2}

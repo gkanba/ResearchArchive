@@ -1,0 +1,1 @@
+{"Circulations":[250.0,150.0],"Delta_t":0.0001,"Div_GS":49,"Div_Mu":49,"Eta":0.31,"InitCenters_A":[-1.0,1.2,0.0,0.2],"InitCenters_T":[-1.0,1.0,0.0,0.0],"IsDebug":false,"Max_t":25.0,"Mu":1.0,"NudgeList":[0],"Range_GS":[5.0,250.0],"Range_Mu":[0.5,25.0],"RootDir":"./out/Test/A2","Tau_t":1.0,"Threads":20,"VortexCount":2}

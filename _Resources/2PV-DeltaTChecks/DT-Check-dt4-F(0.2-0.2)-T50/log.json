@@ -1,0 +1,1 @@
+{"Circulations":[250.0,150.0],"Delta_t":0.0001,"Eta":0.31,"InitCenters_A":[-1.0,0.2,0.0,0.2],"InitCenters_T":[-1.0,1.0,0.0,0.0],"IsDebug":false,"Max_t":50.0,"Mu":10.0,"NudgeList":[0],"RootDir":"./out/Test/DT-Check-dt4-F(0.2-0.2)-T50","Tau_t":1.0,"VortexCount":2}

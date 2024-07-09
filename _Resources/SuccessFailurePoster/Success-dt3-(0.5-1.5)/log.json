@@ -1,0 +1,1 @@
+{"Circulations":[250.0,100.0],"Delta_t":0.001,"Eta":0.3162,"InitCenters_A":[-1.0,0.5,0.0,1.5],"InitCenters_T":[-1.0,1.0,0.0,0.0],"IsDebug":false,"Max_t":25.0,"Mu":5.0,"NudgeList":[0],"RootDir":"./out/Test/Success-dt3-(0.5-1.5)","Tau_t":1.0,"VortexCount":2}

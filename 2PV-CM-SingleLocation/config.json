@@ -1,0 +1,42 @@
+{
+    "RootDir": "./out/Test/A2",
+    "Threads": 20,
+    "IsDebug": false,
+
+    "Delta_t" : 0.0001,
+    "Max_t" : 25.0,
+    "Tau_t" :  1.0,
+
+    "VortexCount" : 2,
+    "Circulations": [
+        250.0,
+        150.0
+    ],
+    "InitCenters_T":[
+        -1.0,
+         1.0,
+         0.0,
+         0.0
+    ],
+    "InitCenters_A":[
+        -1.0,
+         1.2,
+         0.0,
+         0.2
+    ],
+    "Mu":  1.0,
+    "Eta": 0.31,
+    "NudgeList":[
+        0
+    ],
+    "Range_Mu":[
+        0.5,
+        25.0
+    ],
+    "Range_GS":[
+            5.0,
+            250.0
+    ],
+    "Div_Mu": 49,
+    "Div_GS": 49
+}
